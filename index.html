@@ -1,0 +1,504 @@
+<!-- #5A119E - #973DEB - #EBAF54 - #26EB6A - #219E4D -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Single Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="dist/bootstrap/css/bootstrap.css">
+  <link rel="stylesheet" href="dist/fontawesome/css/all.css">
+  <link rel="stylesheet" href="dist/css/styles.css">
+</head>
+<body>
+	<nav class="navbar sticky-top bg-dark navbar-expand-lg">
+	  	<a class="navbar-brand" href="#start">Single Page</a>
+	  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	    	<span class="navbar-toggler-icon"></span>
+	  	</button>
+
+	  	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+		    <ul class="navbar-nav ml-auto">
+		      <li class="nav-item">
+		        <a class="nav-link" id="nav-services" href="#services">Services</a>
+		      </li>
+		      <li class="nav-item">
+		        <a class="nav-link" href="#portfolio">Portfolio</a>
+		      </li>
+		      <li class="nav-item">
+		        <a class="nav-link" href="#about">About</a>
+		      </li>
+		      <li class="nav-item">
+		        <a class="nav-link" id="nav-team" href="#team">Team</a>
+		      </li>
+		      <li class="nav-item">
+		        <a class="nav-link" href="#contact">Contact</a>
+		      </li>
+		    </ul>
+	  	</div>
+	</nav>
+
+	<header class="main-start" id="start">
+		<div class="container">
+			<div class="main-info">
+				<div class="row justify-content-center">
+					<div class="col-12 text-center">
+						<div class="title-main">
+							This is our Bussiness
+						</div>
+					</div>
+				</div>
+				<div class="row justify-content-center">
+					<div class="col-12 text-center">
+						<h3>Prueba de Bootstrap</h3>
+					</div>
+				</div>
+				<div class="row justify-content-center">
+					<div class="col-12 text-center">
+						<h3>Prueba de Bootstrap</h3>
+					</div>
+				</div>
+				<a class="btn btn-primary">Tell me more</a>
+			</div>
+		</div>
+	</header>
+
+	<!-- SERVICES -->
+	<div class="container-fluid section-white" id="services">
+		<div class="container mt-4">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center">
+					<div class="section-title">Services</div>
+					<div class="section-subtitle text-muted">Lorem ipsum dolor sit amet consectetur.</div>
+				</div>
+			</div>
+
+			<div class="row justify-content-center mt-5">
+				<div class="col-md-4 text-center mb-4">
+					<div class="row pt-2">
+						<div class="col-12">
+							<div class="circle-icon-big text-center">
+								<i class="fas fa-shopping-cart text-white"></i>
+							</div>
+						</div>
+					</div>
+					<div class="row mt-2">
+						<div class="col-12">
+							<div class="info-title text-center">E-Commerce</div>
+						</div>
+					</div>
+					<div class="row mt-2">
+						<div class="col-12">
+							<div class="info-data">
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4 text-center mb-4">
+					<div class="row pt-2">
+						<div class="col-12">
+							<div class="circle-icon-big text-center">
+								<i class="fas fa-laptop-code text-white"></i>
+							</div>
+						</div>
+					</div>
+					<div class="row mt-2">
+						<div class="col-12">
+							<div class="info-title text-center">Responsive Design</div>
+						</div>
+					</div>
+					<div class="row mt-2">
+						<div class="col-12">
+							<div class="info-data">
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4 text-center mb-4">
+					<div class="row pt-2">
+						<div class="col-12">
+							<div class="circle-icon-big text-center">
+								<i class="fas fa-lock text-white"></i>
+							</div>
+						</div>
+					</div>
+					<div class="row mt-2">
+						<div class="col-12">
+							<div class="info-title text-center">Web security</div>
+						</div>
+					</div>
+					<div class="row mt-2">
+						<div class="col-12">
+							<div class="info-data">
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- END SERVICES -->
+
+	<!-- PORTFOLIO -->
+	<div class="container-fluid section-color" id="portfolio">
+		<div class="container mt-4">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center">
+					<div class="section-title">Portfolio</div>
+					<div class="section-subtitle text-muted">Lorem ipsum dolor sit amet consectetur.</div>
+				</div>
+			</div>
+
+			<div class="row justify-content-center mt-5">
+				<div class="col-md-4 mb-4">
+					<div class="row">
+						<div class="col-12">
+							<a class="portfolio-link" data-toggle="modal" data-title="Essences" data-img="images/essential-oils-2738555_1280.jpg" data-description="Natural scents. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!" href="#" data-target="#portfolioModal">
+		                        <div class="portfolio-hover">
+		                            <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+		                        </div>
+								<img class="img-fluid" src="images/essential-oils-2738555_1280.jpg">
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-12">
+							<div class="portfolio-foot-title text-center w-100">
+								Essences
+							</div>
+							<div class="portfolio-foot-subtitle text-center w-100">
+								Natural scents
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 mb-4">
+					<div class="row">
+						<div class="col-12">
+							<a class="portfolio-link" data-toggle="modal" data-title="Fragrances" data-img="images/essential-oil-3816410_1280.jpg" data-description="Natural fragrances. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!" href="#" data-target="#portfolioModal">
+		                        <div class="portfolio-hover">
+		                            <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+		                        </div>
+								<img class="img-fluid" src="images/essential-oil-3816410_1280.jpg">
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-12">
+							<div class="portfolio-foot-title text-center w-100">
+								Fragrances
+							</div>
+							<div class="portfolio-foot-subtitle text-center w-100">
+								Natural fragrances
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 mb-4">
+					<div class="row">
+						<div class="col-12">
+							<a class="portfolio-link" data-toggle="modal" data-title="Floral" data-img="images/globuli-1574436_1280.jpg" data-description="Floral scents. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!" href="#" data-target="#portfolioModal">
+		                        <div class="portfolio-hover">
+		                            <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+		                        </div>
+								<img class="img-fluid" src="images/globuli-1574436_1280.jpg">
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-12">
+							<div class="portfolio-foot-title text-center w-100">
+								Floral
+							</div>
+							<div class="portfolio-foot-subtitle text-center w-100">
+								Floral scents
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 mb-4">
+					<div class="row">
+						<div class="col-12">
+							<a class="portfolio-link" data-toggle="modal" data-title="Attention" data-img="images/business-man-2452808_1280.jpg" data-description="Personalized attention. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!" href="#" data-target="#portfolioModal">
+		                        <div class="portfolio-hover">
+		                            <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+		                        </div>
+								<img class="img-fluid" src="images/business-man-2452808_1280.jpg">
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-12">
+							<div class="portfolio-foot-title text-center w-100">
+								Attention
+							</div>
+							<div class="portfolio-foot-subtitle text-center w-100">
+								Personalized attention
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 mb-4">
+					<div class="row">
+						<div class="col-12">
+							<a class="portfolio-link" data-toggle="modal" data-title="E-commerce" data-img="images/ecommerce-3530785_1280.jpg" data-description="Free shipping. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!" href="#" data-target="#portfolioModal">
+		                        <div class="portfolio-hover">
+		                            <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+		                        </div>
+								<img class="img-fluid" src="images/ecommerce-3530785_1280.jpg">
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-12">
+							<div class="portfolio-foot-title text-center w-100">
+								E-commerce
+							</div>
+							<div class="portfolio-foot-subtitle text-center w-100">
+								Free shipping
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 mb-4">
+					<div class="row">
+						<div class="col-12">
+							<a class="portfolio-link" data-toggle="modal" data-title="Multi platform" data-img="images/samsung-4721549_1280.jpg" data-description="Wherever you are. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!" href="#" data-target="#portfolioModal">
+		                        <div class="portfolio-hover">
+		                            <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+		                        </div>
+								<img class="img-fluid" src="images/samsung-4721549_1280.jpg">
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-12">
+							<div class="portfolio-foot-title text-center w-100">
+								Multi platform
+							</div>
+							<div class="portfolio-foot-subtitle text-center w-100">
+								Wherever you are
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- END PORTFOLIO -->
+
+	<!-- ABOUT -->
+	<div class="container-fluid section-white" id="about">
+		<div class="container mt-4">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center">
+					<div class="section-title">About</div>
+					<div class="section-subtitle  text-muted">Lorem ipsum dolor sit amet consectetur.</div>
+				</div>
+			</div>
+
+			<div class="row justify-content-center mt-5">
+				<div class="col-md-6">
+					<div class="about-title text-center w-100">
+						Our history
+					</div>
+					<div class="about-content text-justify w-100">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ullamcorper mollis dolor et bibendum. Aliquam risus mauris, porttitor semper diam in, lobortis ultricies erat. Mauris at massa sit amet diam aliquet malesuada et egestas nisi. Maecenas lacinia urna et eros sollicitudin pharetra. Phasellus congue sit amet nibh sit amet convallis. Nam malesuada odio metus, at cursus eros luctus sed. Sed rutrum nunc sit amet viverra condimentum. Vestibulum posuere, erat vel blandit tincidunt, ex mi ullamcorper nunc, nec laoreet nunc nulla id sem. Morbi vel tortor nisl. Vestibulum vitae lacus eu est lobortis gravida. Nullam in urna sit amet magna laoreet efficitur. Integer eget neque et felis tempus laoreet ac id quam.
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="row mb-3">
+						<div class="col-12">
+							<div class="about-title text-center w-100">
+								Our mission
+							</div>
+							<div class="text-justify w-100">
+								Cras laoreet pharetra odio, at varius nunc. Fusce ultrices leo ut sem mollis venenatis. Pellentesque cursus nulla odio, a congue nulla auctor sed. Integer maximus pellentesque turpis dapibus hendrerit. Vestibulum imperdiet dui nec justo porttitor, id fringilla dolor vehicula. Aenean egestas sem id turpis porta congue. Vivamus commodo mi sit amet imperdiet ultricies.
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-12">
+							<div class="about-title text-center w-100">
+								Why choose us
+							</div>
+							<div class="text-justify w-100">
+								Pellentesque laoreet libero at velit efficitur ullamcorper. Integer at accumsan lectus. Nunc eu euismod purus. Proin vel lorem enim. Ut nunc justo, sodales in sollicitudin sed, rutrum ut est. Proin blandit id nisi nec dapibus. Nulla eu feugiat turpis. Proin non lectus tristique, finibus massa quis, elementum nisi.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- END ABOUT -->
+
+	<!-- TEAM -->
+	<div class="container-fluid section-color" id="team">
+		<div class="container mt-4">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center">
+					<div class="section-title">Our team</div>
+					<div class="section-subtitle text-muted">Lorem ipsum dolor sit amet consectetur.</div>
+				</div>
+			</div>
+
+			<div class="row justify-content-center mt-5">
+				<div class="col-md-4 text-center mb-4">
+					<div class="team">
+						<img class="rounded-circle" src="images/young-3061652_640.jpg" width="160px" height="160px">
+						<div class="team-name w-100">Emily</div>
+						<div class="team-job w-100 mb-2">Sales coordinator</div>
+						<a class="btn btn-social mx-2" href="#"><i class="fab fa-twitter"></i></a>
+						<a class="btn btn-social mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
+						<a class="btn btn-social mx-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+					</div>
+				</div>
+				<div class="col-md-4 text-center mb-4">
+					<div class="team">
+						<img class="rounded-circle" src="images/man-1342457_640.jpg">
+						<div class="team-name w-100">Ethan</div>
+						<div class="team-job w-100 mb-2">Customer Support</div>
+						<a class="btn btn-social mx-2" href="#"><i class="fab fa-twitter"></i></a>
+						<a class="btn btn-social mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
+						<a class="btn btn-social mx-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+					</div>
+				</div>
+				<div class="col-md-4 text-center mb-4">
+					<div class="team">
+						<img class="rounded-circle" src="images/business-woman-2697954_640.jpg">
+						<div class="team-name w-100">Abigail</div>
+						<div class="team-job w-100 mb-2">Manager</div>
+						<a class="btn btn-social mx-2" href="#"><i class="fab fa-twitter"></i></a>
+						<a class="btn btn-social mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
+						<a class="btn btn-social mx-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+					</div>
+				</div>
+			</div>
+
+			<div class="row justify-content-center mt-4">
+				<div class="col-8 text-center">
+					<div class="team-info mb-4">
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- END TEAM -->
+
+	<!-- CONTACT -->
+	<div class="container-fluid section-white" id="contact">
+		<div class="container mt-4">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center">
+					<div class="section-title">Contact</div>
+					<div class="section-subtitle text-muted">Lorem ipsum dolor sit amet consectetur.</div>
+				</div>
+			</div>
+
+			<div class="row justify-content-center mt-5">
+				<div class="col-12">
+					<form id="contactForm" name="sentMessage" novalidate="novalidate">
+						<div class="row">
+							<div class="col-md-4 my-auto">
+								<div class="circle-icon-big text-center mb-4">
+									<i class="fas fa-envelope text-white"></i>
+								</div>
+							</div>
+							<div class="col-md-8 my-auto">
+								<div class="row justify-content-center">
+									<div class="col-md-6">
+										<div class="form-group">
+											<!--<input type="text" name="name" class="form-control form-control-sm" placeholder="Su nombre*">-->
+											<input class="form-control" id="name" name="name" type="text" required="required" placeholder="Su nombre*" data-validation-required-message="Complete su nombre" />
+                                			<div class="help-block text-danger display-msg" id="error-name"></div>
+										</div>
+										<div class="form-group">
+											<input type="email" name="email" id="email" class="form-control form-control-sm" required="required" placeholder="Su correo electr&oacute;nico*" data-validation-required-message="Complete su correo electrónico" />
+											<p class="help-block text-danger" id="error-email"></p>
+										</div>
+										<div class="form-group">
+											<input type="text" name="telefono" id="phone" class="form-control form-control-sm" required="required" placeholder="Su tel&eacute;fono*" data-validation-required-message="Complete su nro. de teléfono" />
+											<p class="help-block text-danger" id="error-phone"></p>
+										</div>
+									</div>
+									<div class="col-md-6 my-auto">
+										<div class="form-group">
+											<textarea rows="5" name="msg" id="message" class="form-control form-control-sm" placeholder="Su mensaje*" required="required" data-validation-required-message="Complete el mensaje a enviar"></textarea>
+											<p class="help-block text-danger" id="error-message"></p>
+										</div>
+									</div>	
+								</div>
+								<div class="row justify-content-center">
+									<div class="col-md-12 text-center">
+										<button id="btn-msg" class="btn btn-primary">Enviar</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- END CONTACT -->
+
+	<!-- FOOTER -->
+	<footer class="footer py-4">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-4 text-lg-left text-center">Copyright © Your Website 2020</div>
+                <div class="col-lg-4 my-3 my-lg-0 text-center">
+                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+                <div class="col-lg-4 text-lg-right text-center">
+                    <a class="mr-3" href="#!">Privacy Policy</a>
+                    <a href="#!">Terms of Use</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+	<!-- END FOOTER -->
+
+	<!-- SCROLL BUTTON -->
+	<a id="btn-top" href="#start"><i class="fas fa-arrow-circle-up"></i></a>
+	<!-- FIN SCROLL BUTTON -->
+
+	<!-- Modal -->
+	<div class="modal fade" id="portfolioModal" tabindex="-1" role="dialog" aria-labelledby="portfolioModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg" role="document">
+	    	<div class="modal-content">
+	      		<div class="modal-header">
+	        		<h5 class="modal-title" id="portfolioModalLabel">Modal title</h5>
+	        		<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	          			<span aria-hidden="true">&times;</span>
+	        		</button>
+	      		</div>
+	      		<div class="modal-body">
+	      			<img id="image-selected" class="container-fluid" src="">
+	      		</div>
+	      		<div class="modal-footer">
+	      			<span id="image-description"></span>
+	        		<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+	      		</div>
+	    	</div>
+	  	</div>
+	</div>
+
+  <script src="dist/js/jquery-3.5.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+  <script src="dist/bootstrap/js/bootstrap.js"></script>
+  <script src="dist/fontawesome/js/all.js"></script>
+  <script src="dist/js/functions.js"></script>
+  <!-- Contact form JS-->
+  <!--<script src="dist/mail/jqBootstrapValidation.js"></script>-->
+  <!--<script src="dist/mail/contact_me.js"></script>-->
+</body>
+</html>
